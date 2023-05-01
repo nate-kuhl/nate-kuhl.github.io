@@ -19,3 +19,5 @@ I have experience with the following programming languages:
  - Rust
 
 Outside of work, I enjoy playing tennis, reading and writing, cycling, and playing piano
+
+[LinkedIn](https://www.linkedin.com/in/nate-kuhl-3b947a63/)
